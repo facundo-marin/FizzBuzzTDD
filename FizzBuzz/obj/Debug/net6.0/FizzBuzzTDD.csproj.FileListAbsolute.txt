@@ -1,0 +1,11 @@
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\bin\Debug\net6.0\FizzBuzzTDD.deps.json
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\bin\Debug\net6.0\FizzBuzzTDD.dll
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\bin\Debug\net6.0\FizzBuzzTDD.pdb
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.AssemblyInfoInputs.cache
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.AssemblyInfo.cs
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.dll
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzzTDD.dll
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\FizzBuzzTDD.pdb
+C:\Repos Cursos\Unit Test\FizzBuzzProyect\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzzTDD.dll
